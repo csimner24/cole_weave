@@ -1,0 +1,1575 @@
+{
+  "adamleithp": {
+    "frontend": 2016,
+    "ee": 8,
+    "posthog": 7,
+    "services": 1,
+    "playwright": 29,
+    "root": 27,
+    "common": 9,
+    "products": 14,
+    ".github": 6,
+    "packages": 547,
+    ".agents": 1
+  },
+  "pauldambra": {
+    "frontend": 1390,
+    "posthog": 293,
+    "root": 24,
+    "products": 168,
+    ".idea": 1,
+    "ee": 44,
+    "docs": 25,
+    ".github": 13,
+    "common": 22,
+    ".claude": 2,
+    "playwright": 8,
+    "services": 90,
+    ".agents": 23,
+    ".semgrep": 5,
+    "bin": 2,
+    "nodejs": 2,
+    ".flox": 1
+  },
+  "clickhouse-sync-posthog": {
+    ".github": 8,
+    "docker": 2
+  },
+  "scheduled-actions-posthog": {
+    "nodejs": 189
+  },
+  "matheus-vb": {
+    "rust": 197,
+    "posthog": 26,
+    "root": 3,
+    "docs": 1,
+    ".github": 4,
+    "bin": 4,
+    "docker": 1,
+    "products": 51,
+    "services": 3,
+    ".semgrep": 1
+  },
+  "TueHaulund": {
+    "posthog": 579,
+    "root": 31,
+    "frontend": 194,
+    "nodejs": 351,
+    ".github": 10,
+    "devenv": 2,
+    "common": 83,
+    "services": 13,
+    "bin": 10,
+    "ee": 17,
+    "products": 159,
+    ".semgrep": 2
+  },
+  "eli-r-ph": {
+    "rust": 458,
+    "posthog": 37,
+    "nodejs": 7,
+    "products": 3,
+    ".github": 11,
+    ".flox": 2,
+    ".agents": 10
+  },
+  "yasen-posthog": {
+    "frontend": 301,
+    "posthog": 228,
+    "ee": 32,
+    "services": 52,
+    "root": 12,
+    "products": 198,
+    ".github": 1,
+    ".semgrep": 1,
+    "livestream": 12,
+    ".agents": 1,
+    "bin": 2,
+    "docs": 1
+  },
+  "jurajmajerik": {
+    "posthog": 185,
+    "frontend": 248,
+    "ee": 16,
+    "products": 68,
+    "docs": 1,
+    "services": 24,
+    ".dagster_home": 1,
+    "root": 1,
+    "playwright": 1,
+    "devenv": 1,
+    ".github": 1,
+    ".semgrep": 1
+  },
+  "z0br0wn": {
+    "nodejs": 141,
+    "posthog": 15,
+    "rust": 109,
+    "bin": 5,
+    "devenv": 2,
+    ".github": 3,
+    "root": 3,
+    "products": 3
+  },
+  "benjackwhite": {
+    "frontend": 119,
+    "ee": 2,
+    "posthog": 71,
+    "nodejs": 491,
+    "products": 6,
+    "common": 2,
+    "root": 15,
+    "services": 24,
+    "bin": 7,
+    "rust": 94,
+    ".github": 11,
+    "devenv": 2,
+    "docker": 1,
+    "docs": 1
+  },
+  "andrewm4894": {
+    "products": 511,
+    "posthog": 437,
+    "nodejs": 34,
+    ".semgrep": 5,
+    "frontend": 173,
+    "ee": 7,
+    "services": 229,
+    "bin": 2,
+    "common": 3,
+    "root": 15,
+    ".github": 5,
+    "devenv": 1,
+    "playwright": 1,
+    "tools": 8,
+    ".pi": 4
+  },
+  "andyzzhao": {
+    "frontend": 46,
+    "posthog": 140,
+    "nodejs": 1,
+    "ee": 8,
+    "terraform": 8,
+    "bin": 1,
+    "playwright": 1,
+    "docs": 1,
+    "docker": 2,
+    "root": 4,
+    "products": 18,
+    "services": 2,
+    "tools": 2,
+    ".agents": 1,
+    "common": 4
+  },
+  "Radu-Raicea": {
+    "products": 236,
+    "posthog": 69,
+    "frontend": 28,
+    "root": 1,
+    "ee": 1,
+    "services": 41,
+    ".semgrep": 3,
+    ".github": 2
+  },
+  "andehen": {
+    "frontend": 167,
+    "posthog": 121,
+    "root": 4,
+    "rust": 4,
+    "services": 9,
+    "docs": 1,
+    "ee": 24,
+    "products": 59,
+    "common": 1,
+    "tools": 1,
+    ".semgrep": 2,
+    ".flox": 1
+  },
+  "sampennington": {
+    "frontend": 1307,
+    "ee": 1,
+    "posthog": 118,
+    "playwright": 66,
+    ".github": 2,
+    "root": 3,
+    "funnel-udf": 2,
+    ".agents": 3,
+    "products": 128,
+    "common": 1,
+    "services": 17,
+    ".claude": 1,
+    "docs": 1,
+    "nodejs": 4,
+    "packages": 7,
+    "rust": 3
+  },
+  "webjunkie": {
+    "root": 95,
+    "common": 48,
+    ".github": 213,
+    "playwright": 11,
+    "docs": 23,
+    "bin": 37,
+    "frontend": 3066,
+    "products": 922,
+    "posthog": 378,
+    ".husky": 3,
+    ".flox": 5,
+    ".claude": 12,
+    ".agents": 20,
+    "services": 220,
+    "devenv": 7,
+    "share": 1,
+    "tools": 100,
+    "docker": 4,
+    ".semgrep": 12,
+    "ee": 51,
+    ".devcontainer": 1,
+    "rust": 3,
+    "packages": 5,
+    "proto": 1
+  },
+  "Twixes": {
+    "products": 161,
+    "posthog": 181,
+    "bin": 5,
+    "ee": 7,
+    ".flox": 2,
+    "root": 6,
+    ".github": 2,
+    "frontend": 127,
+    ".semgrep": 1,
+    "nodejs": 1,
+    "services": 5,
+    "common": 1
+  },
+  "mendral-app": {
+    ".github": 114,
+    "playwright": 33,
+    "bin": 7,
+    "root": 21,
+    "posthog": 27,
+    "common": 6,
+    "frontend": 202,
+    ".semgrep": 1,
+    "products": 49,
+    "rust": 11,
+    ".claude": 2,
+    "hedgebox-dummy": 1,
+    "services": 15,
+    "docker": 1,
+    "ee": 6,
+    "nodejs": 18,
+    "tools": 3,
+    ".devcontainer": 2,
+    ".flox": 2,
+    "packages": 1
+  },
+  "MichaelKutsch-ph": {
+    "root": 6,
+    ".github": 4,
+    "bin": 4
+  },
+  "skoob13": {
+    "ee": 198,
+    "root": 16,
+    "products": 249,
+    "services": 633,
+    ".github": 12,
+    ".vscode": 1,
+    "frontend": 100,
+    "posthog": 71,
+    "common": 4,
+    ".claude": 4,
+    ".agents": 6,
+    "docs": 13,
+    "playwright": 3
+  },
+  "jose-sequeira": {
+    "posthog": 94,
+    ".github": 16,
+    "root": 15,
+    "rust": 323,
+    "nodejs": 417,
+    "products": 4,
+    "docker": 2,
+    "ee": 1,
+    "proto": 5,
+    "bin": 6,
+    "common": 1,
+    "livestream": 2,
+    "frontend": 3
+  },
+  "estefaniarabadan": {
+    "posthog": 183,
+    "bin": 3,
+    "root": 5,
+    "frontend": 3,
+    "products": 25,
+    "services": 1,
+    ".github": 1
+  },
+  "luke-belton": {
+    "frontend": 85,
+    "services": 6,
+    "root": 3,
+    "docs": 1,
+    "posthog": 26,
+    "ee": 6,
+    "products": 25,
+    "nodejs": 3
+  },
+  "vdekrijger": {
+    "frontend": 147,
+    "root": 4,
+    "posthog": 181,
+    "terraform": 27,
+    ".claude": 1,
+    "ee": 23,
+    "products": 22,
+    "services": 56,
+    "bin": 1,
+    ".github": 1,
+    "common": 3,
+    "playwright": 1
+  },
+  "frankh": {
+    "posthog": 118,
+    "products": 147,
+    "devenv": 2,
+    ".github": 3,
+    "nodejs": 19,
+    "services": 64,
+    "bin": 4,
+    "root": 3,
+    "rust": 20,
+    "frontend": 56,
+    "common": 13
+  },
+  "MattBro": {
+    "posthog": 117,
+    "services": 94,
+    "ee": 222,
+    "frontend": 92,
+    "products": 10,
+    ".github": 4,
+    "root": 4,
+    "playwright": 1,
+    "docs": 1,
+    "bin": 1,
+    "tools": 2,
+    ".semgrep": 1
+  },
+  "gesh": {
+    "frontend": 314,
+    "root": 1,
+    "posthog": 73,
+    "products": 5,
+    "playwright": 2,
+    "services": 79
+  },
+  "tomasfarias": {
+    "products": 89,
+    "posthog": 89,
+    "frontend": 26,
+    "services": 7,
+    "root": 10,
+    "nodejs": 7,
+    ".github": 1,
+    ".semgrep": 1
+  },
+  "thmsobrmlr": {
+    "frontend": 504,
+    "posthog": 308,
+    "ee": 11,
+    "products": 40,
+    "common": 8,
+    "services": 33,
+    "root": 5,
+    ".flox": 1,
+    "playwright": 7,
+    ".github": 1,
+    "bin": 1,
+    "docker": 1
+  },
+  "mp-hog": {
+    "frontend": 302,
+    "ee": 38,
+    "playwright": 6,
+    "root": 3,
+    "products": 107,
+    "posthog": 14,
+    "services": 94,
+    "bin": 2,
+    "common": 4,
+    "tools": 25
+  },
+  "adboio": {
+    "cli": 3,
+    ".github": 3,
+    "root": 7,
+    "frontend": 184,
+    "posthog": 35,
+    "products": 41,
+    "docs": 13,
+    ".agents": 1,
+    "ee": 2,
+    ".claude": 1,
+    ".posthog-code": 2
+  },
+  "dmarticus": {
+    "posthog": 221,
+    "rust": 86,
+    "frontend": 391,
+    "root": 8,
+    "products": 79,
+    ".semgrep": 5,
+    "nodejs": 12,
+    "services": 91,
+    "ee": 8,
+    ".github": 6,
+    "common": 7,
+    "playwright": 1,
+    "docs": 1
+  },
+  "lricoy": {
+    "frontend": 184,
+    "posthog": 225,
+    "products": 24,
+    "common": 9,
+    "nodejs": 22,
+    ".github": 3,
+    "services": 15,
+    "root": 2,
+    "ee": 1,
+    "livestream": 31,
+    "tools": 18
+  },
+  "rafaeelaudibert": {
+    "frontend": 1642,
+    "products": 624,
+    ".agents": 8,
+    ".claude": 1,
+    "root": 56,
+    ".github": 29,
+    "playwright": 8,
+    "livestream": 25,
+    "bin": 9,
+    "common": 86,
+    "devenv": 2,
+    "posthog": 143,
+    "rust": 3,
+    "services": 399,
+    "nodejs": 6,
+    "docs": 146,
+    "cli": 1,
+    ".config": 1,
+    ".devcontainer": 1,
+    ".vscode": 2,
+    "hedgebox-dummy": 12,
+    "ee": 14,
+    ".semgrep": 1,
+    "packages": 5,
+    "tools": 3,
+    ".flox": 1
+  },
+  "orian": {
+    "posthog": 312,
+    ".github": 7,
+    "common": 1,
+    "root": 7,
+    "products": 7,
+    "frontend": 8,
+    "ee": 3,
+    "docker": 11,
+    "services": 1,
+    "tools": 3
+  },
+  "sarahxsanders": {
+    "frontend": 44,
+    ".github": 4,
+    "docs": 40,
+    "ee": 4
+  },
+  "ReeceJones": {
+    "posthog": 191,
+    "root": 15,
+    "frontend": 167,
+    ".claude": 1,
+    ".github": 1,
+    "ee": 16,
+    "products": 75,
+    "playwright": 5,
+    "services": 6,
+    "common": 1,
+    "rust": 4,
+    ".semgrep": 1
+  },
+  "fuziontech": {
+    "frontend": 13,
+    "posthog": 34,
+    "root": 5
+  },
+  "carlos-marchal-ph": {
+    "frontend": 15,
+    "root": 2,
+    "products": 72,
+    "posthog": 86,
+    "services": 24,
+    "nodejs": 49,
+    "rust": 25,
+    "docs": 1,
+    "bin": 3,
+    "common": 3,
+    ".github": 1,
+    "ee": 1
+  },
+  "fasyy612": {
+    "frontend": 207,
+    "posthog": 47,
+    "products": 24,
+    "playwright": 1,
+    "common": 1,
+    "services": 2,
+    "ee": 9,
+    "root": 2
+  },
+  "patricio-posthog": {
+    "posthog": 59,
+    "rust": 94,
+    "docs": 7,
+    "ee": 8,
+    "products": 10,
+    "services": 9,
+    "playwright": 1,
+    "root": 4
+  },
+  "tatoalo": {
+    "posthog": 84,
+    "products": 401,
+    "ee": 51,
+    "frontend": 121,
+    "root": 4,
+    "services": 22,
+    ".semgrep": 3,
+    "docs": 1,
+    ".github": 1
+  },
+  "veryayskiy": {
+    ".semgrep": 6,
+    "posthog": 61,
+    "products": 713,
+    "frontend": 122,
+    "nodejs": 33,
+    ".github": 1,
+    "root": 8,
+    "services": 21,
+    "ee": 1,
+    "playwright": 1
+  },
+  "jordanm-posthog": {
+    "posthog": 113,
+    ".flox": 1,
+    ".github": 7,
+    "bin": 5,
+    "devenv": 1,
+    "livestream": 59,
+    "frontend": 312,
+    "root": 2,
+    "products": 88,
+    "ee": 1,
+    ".dagster_home": 1,
+    "services": 2
+  },
+  "sortafreel": {
+    "posthog": 126,
+    "frontend": 6,
+    "ee": 6,
+    "nodejs": 1,
+    ".github": 1,
+    "products": 183,
+    "root": 2,
+    ".semgrep": 2,
+    "services": 1,
+    "docs": 2
+  },
+  "joshsny": {
+    "services": 170,
+    "products": 200,
+    "posthog": 19,
+    "root": 8,
+    ".github": 5,
+    "bin": 2,
+    "ee": 1,
+    "frontend": 2,
+    "docs": 1
+  },
+  "hpouillot": {
+    "products": 175,
+    "frontend": 116,
+    "root": 4,
+    "bin": 5,
+    "devenv": 1,
+    "rust": 241,
+    "docs": 1,
+    "cli": 79,
+    ".flox": 1,
+    "posthog": 27,
+    "services": 25,
+    ".github": 5,
+    "common": 6,
+    "ee": 1,
+    ".semgrep": 1
+  },
+  "Gilbert09": {
+    "nodejs": 34,
+    ".github": 1,
+    "posthog": 529,
+    "root": 12,
+    "frontend": 125,
+    "products": 197,
+    "ee": 1,
+    "services": 35,
+    ".flox": 1,
+    ".husky": 1,
+    "docs": 90,
+    ".agents": 3,
+    ".semgrep": 2,
+    "playwright": 1
+  },
+  "fercgomes": {
+    "frontend": 410,
+    "services": 10,
+    "posthog": 154,
+    "products": 22,
+    "docs": 8,
+    "ee": 1,
+    "playwright": 6,
+    ".github": 2,
+    ".agents": 7,
+    "root": 5,
+    ".claude": 1,
+    "tools": 2
+  },
+  "anirudhpillai": {
+    "frontend": 124,
+    "posthog": 24,
+    "products": 6,
+    "ee": 4
+  },
+  "robbie-c": {
+    "frontend": 47,
+    "nodejs": 10,
+    "posthog": 517,
+    "products": 154,
+    "devenv": 1,
+    "services": 26,
+    "ee": 28,
+    ".github": 14,
+    ".idea": 1,
+    "root": 27,
+    ".flox": 2,
+    "common": 42,
+    ".claude": 6,
+    ".husky": 4,
+    "docs": 2,
+    "docker": 2
+  },
+  "abhischekt": {
+    "ee": 32,
+    "posthog": 20,
+    "root": 2,
+    "services": 1,
+    "frontend": 2
+  },
+  "Classy-Bear": {
+    "docs": 1
+  },
+  "rodrigoi": {
+    "frontend": 296,
+    "posthog": 64,
+    "ee": 10,
+    "products": 43,
+    "playwright": 3,
+    "root": 3,
+    "services": 4,
+    ".semgrep": 1,
+    "cli-2.0": 28
+  },
+  "timgl": {
+    ".github": 2,
+    "frontend": 20,
+    "posthog": 19,
+    "docs": 1,
+    "products": 3,
+    "services": 5
+  },
+  "aspicer": {
+    "rust": 5,
+    "posthog": 202,
+    ".flox": 3,
+    "ee": 20,
+    "frontend": 42,
+    "nodejs": 14,
+    "root": 22,
+    "products": 25,
+    "playwright": 1,
+    "bin": 24,
+    ".github": 8,
+    "common": 2,
+    "docker": 2,
+    "funnel-udf": 16,
+    "services": 1
+  },
+  "MarconLP": {
+    "frontend": 149,
+    "posthog": 453,
+    "products": 136,
+    "ee": 7,
+    "root": 4,
+    "services": 32,
+    "nodejs": 2,
+    "bin": 1,
+    "devenv": 1,
+    ".agents": 1
+  },
+  "nickbest-ph": {
+    "posthog": 300,
+    "root": 10,
+    "bin": 7,
+    "rust": 314,
+    ".github": 8,
+    "proto": 24,
+    "products": 15,
+    "ee": 34,
+    "common": 5,
+    "devenv": 2,
+    "nodejs": 93,
+    "frontend": 7,
+    ".semgrep": 2,
+    ".agents": 3,
+    "services": 1
+  },
+  "gustavohstrassburger": {
+    "posthog": 217,
+    "frontend": 72,
+    "ee": 2,
+    "products": 20,
+    "common": 4,
+    "rust": 44,
+    "services": 24,
+    "nodejs": 2,
+    "root": 1,
+    ".github": 1,
+    "bin": 1,
+    "playwright": 1,
+    "cli-2.0": 11
+  },
+  "clr182": {
+    "ee": 2,
+    "frontend": 46,
+    "posthog": 66,
+    "products": 16,
+    "services": 1,
+    "playwright": 1
+  },
+  "oliverb123": {
+    "posthog": 41,
+    "products": 198,
+    "root": 5,
+    "rust": 27,
+    ".github": 1,
+    "ee": 1,
+    "frontend": 26,
+    "services": 4,
+    "bin": 2,
+    "playwright": 4,
+    ".semgrep": 1
+  },
+  "jabahamondes": {
+    "products": 176,
+    "frontend": 182,
+    "posthog": 66,
+    "root": 4,
+    "services": 7
+  },
+  "lmenezes": {
+    "docker": 2,
+    "nodejs": 384,
+    "posthog": 45,
+    "root": 1,
+    "rust": 6,
+    ".github": 2,
+    "bin": 1,
+    "livestream": 7
+  },
+  "meikelmosby": {
+    "common": 3,
+    "frontend": 35,
+    "nodejs": 91,
+    "products": 86,
+    "posthog": 23,
+    "bin": 1,
+    "docker": 1,
+    "root": 1,
+    "services": 1
+  },
+  "sakce": {
+    "frontend": 115,
+    "playwright": 5,
+    "products": 276,
+    "posthog": 119,
+    "cli": 5,
+    "root": 7,
+    "bin": 3,
+    "devenv": 2,
+    "services": 41,
+    "common": 1,
+    ".github": 4,
+    "docker": 1,
+    "tools": 17,
+    "ee": 1,
+    "rust": 1,
+    ".semgrep": 1
+  },
+  "ablaszkiewicz": {
+    ".semgrep": 5,
+    "frontend": 161,
+    "posthog": 82,
+    "products": 311,
+    "docs": 1,
+    "rust": 26,
+    ".github": 1,
+    "root": 4,
+    "services": 40,
+    "cli": 6,
+    "common": 1,
+    "bin": 2,
+    "nodejs": 10
+  },
+  "cvolzer3": {
+    "products": 102,
+    "ee": 61,
+    "frontend": 201,
+    "playwright": 2,
+    ".github": 2,
+    ".semgrep": 1,
+    "root": 4,
+    "posthog": 13,
+    "services": 51,
+    "bin": 1
+  },
+  "georgemunyoro": {
+    "common": 178,
+    "frontend": 51,
+    "posthog": 307,
+    "root": 54,
+    ".github": 7,
+    "products": 3,
+    "ee": 1,
+    "services": 24
+  },
+  "christiaan-ph": {
+    "frontend": 40,
+    "posthog": 12,
+    "products": 13,
+    "ee": 6
+  },
+  "pl": {
+    "frontend": 2,
+    "rust": 13,
+    "nodejs": 365,
+    "posthog": 34,
+    "products": 4,
+    "ee": 1,
+    ".agents": 1,
+    ".claude": 4,
+    ".github": 1,
+    ".semgrep": 1,
+    "services": 1,
+    "livestream": 2
+  },
+  "richardsolomou": {
+    "nodejs": 33,
+    "products": 411,
+    "frontend": 153,
+    ".github": 2,
+    "docs": 88,
+    "posthog": 40,
+    "services": 106,
+    "rust": 12,
+    "tools": 1,
+    "root": 3,
+    ".semgrep": 1
+  },
+  "andrewjmcgehee": {
+    "products": 175,
+    "frontend": 69,
+    "posthog": 194,
+    ".semgrep": 2,
+    "ee": 2,
+    "services": 36,
+    ".github": 3,
+    "tools": 2,
+    "root": 2,
+    "playwright": 1
+  },
+  "dependabot": {
+    ".github": 37,
+    "root": 17,
+    "ee": 18,
+    "posthog": 47,
+    "products": 6
+  },
+  "will-marella": {
+    "frontend": 1
+  },
+  "ksvat": {
+    "posthog": 52,
+    "frontend": 198,
+    "products": 36,
+    "services": 37,
+    "ee": 7,
+    "root": 1
+  },
+  "rossgray": {
+    "posthog": 67,
+    "products": 168,
+    "ee": 1,
+    "frontend": 141,
+    "playwright": 13,
+    ".github": 1,
+    "root": 6,
+    "services": 5
+  },
+  "posthog-js-upgrader": {
+    "frontend": 11,
+    "hedgebox-dummy": 17,
+    "root": 126,
+    "products": 50,
+    ".github": 1
+  },
+  "Daesgar": {
+    "docker": 1,
+    "posthog": 39,
+    "root": 1,
+    "rust": 1
+  },
+  "jonmcwest": {
+    "products": 581,
+    "frontend": 78,
+    "ee": 1,
+    "posthog": 24,
+    "rust": 8,
+    "nodejs": 7,
+    "playwright": 4,
+    "services": 41,
+    ".semgrep": 3,
+    "root": 7,
+    ".github": 2
+  },
+  "darkopia": {
+    "frontend": 23,
+    "posthog": 2,
+    "products": 1
+  },
+  "arthurdedeus": {
+    "frontend": 323,
+    "root": 10,
+    "products": 169,
+    "posthog": 67,
+    "ee": 24,
+    "nodejs": 14,
+    "common": 5,
+    "services": 62,
+    "bin": 2,
+    "devenv": 1,
+    ".idea": 1,
+    ".semgrep": 1
+  },
+  "havenbarnes": {
+    "nodejs": 106,
+    "products": 89,
+    "frontend": 33,
+    "root": 1,
+    "posthog": 56,
+    ".github": 4,
+    "common": 3,
+    "playwright": 8,
+    "services": 6,
+    "bin": 1,
+    "ee": 6
+  },
+  "mariusandra": {
+    "posthog": 447,
+    "frontend": 503,
+    "root": 24,
+    "products": 203,
+    "services": 41,
+    "playwright": 15,
+    ".github": 6,
+    "common": 16,
+    "bin": 2,
+    ".semgrep": 1,
+    "docs": 1,
+    "ee": 59,
+    ".agents": 4,
+    "packages": 1
+  },
+  "Piccirello": {
+    ".semgrep": 15,
+    "posthog": 331,
+    "ee": 81,
+    ".github": 24,
+    "products": 70,
+    "root": 11,
+    "nodejs": 9,
+    "frontend": 5,
+    ".agents": 1,
+    "tools": 4,
+    "services": 3,
+    ".flox": 1,
+    "bin": 4
+  },
+  "ordehi": {
+    "ee": 5,
+    "posthog": 6,
+    "frontend": 63,
+    "playwright": 1,
+    "products": 16,
+    "root": 2
+  },
+  "a-lider": {
+    "frontend": 248,
+    ".semgrep": 2,
+    "ee": 37,
+    "posthog": 102,
+    "products": 74,
+    "services": 9,
+    "root": 1,
+    "rust": 3
+  },
+  "haacked": {
+    "posthog": 282,
+    "services": 4,
+    "rust": 289,
+    ".github": 17,
+    "docs": 8,
+    "infra-scripts": 4,
+    ".semgrep": 2,
+    "products": 13,
+    "ee": 7,
+    "bin": 7,
+    "root": 5,
+    "frontend": 14,
+    "common": 3,
+    "nodejs": 7,
+    "tools": 7
+  },
+  "k11kirky": {
+    "frontend": 11,
+    "products": 34,
+    "services": 19,
+    "ee": 2,
+    "posthog": 15,
+    ".github": 1
+  },
+  "bciaraldi": {
+    "posthog": 24,
+    "products": 1
+  },
+  "lucasheriques": {
+    "posthog": 30,
+    "frontend": 266,
+    "products": 69,
+    "tools": 3,
+    "playwright": 1,
+    ".semgrep": 1,
+    "root": 4,
+    "services": 23,
+    ".flox": 2
+  },
+  "danielxnj": {
+    "frontend": 8,
+    "posthog": 18
+  },
+  "raquelmsmith": {
+    "docs": 1,
+    "posthog": 33,
+    "frontend": 52,
+    ".semgrep": 1,
+    "playwright": 2,
+    "products": 12,
+    ".github": 1
+  },
+  "tests-posthog": {
+    "root": 8
+  },
+  "kappa90": {
+    ".github": 1,
+    "frontend": 55,
+    "ee": 70,
+    "posthog": 10,
+    "products": 7,
+    "services": 7
+  },
+  "harihran-del": {
+    "posthog": 1,
+    "frontend": 1
+  },
+  "gewenyu99": {
+    "docs": 98,
+    "frontend": 79,
+    "services": 7,
+    ".github": 1,
+    "posthog": 1,
+    "products": 3
+  },
+  "ioannisj": {
+    "cli": 7,
+    "rust": 27,
+    "docs": 5,
+    "frontend": 8
+  },
+  "posthog-bot": {
+    "nodejs": 1
+  },
+  "ceyniustranberg": {
+    "frontend": 6
+  },
+  "gantoine": {
+    "common": 44,
+    ".flox": 6,
+    ".github": 43,
+    "frontend": 694,
+    "root": 41,
+    "bin": 25,
+    "tools": 133,
+    "products": 64,
+    "rust": 3,
+    "services": 9,
+    "hedgebox-dummy": 1,
+    "posthog": 5,
+    "nodejs": 67,
+    ".agents": 5,
+    "devenv": 3,
+    "docs": 6,
+    "playwright": 3,
+    "packages": 12
+  },
+  "danielcarletti": {
+    "frontend": 41,
+    "products": 50,
+    "posthog": 123,
+    ".agents": 2,
+    "root": 1,
+    "services": 4
+  },
+  "pawel-cebula": {
+    "ee": 5,
+    "posthog": 9,
+    "frontend": 25,
+    "docs": 1
+  },
+  "marandaneto": {
+    "docs": 18,
+    "frontend": 7,
+    "posthog": 2,
+    "root": 2,
+    "cli-2.0": 53
+  },
+  "charlescook-ph": {
+    "frontend": 2
+  },
+  "EDsCODE": {
+    ".github": 3,
+    "posthog": 58,
+    "products": 7,
+    "frontend": 8,
+    "services": 1,
+    "root": 2
+  },
+  "daniloc": {
+    "frontend": 2
+  },
+  "posthog": {
+    "frontend": 191,
+    "products": 110,
+    "posthog": 80,
+    "nodejs": 30,
+    "bin": 3,
+    "docker": 1,
+    "rust": 4,
+    "services": 93,
+    "root": 8,
+    "docs": 37,
+    "ee": 29,
+    "tools": 1,
+    ".agents": 1,
+    "playwright": 1,
+    ".github": 1
+  },
+  "annikaschmid": {
+    "posthog": 3,
+    ".semgrep": 1,
+    "bin": 2,
+    "products": 14,
+    "services": 1
+  },
+  "charlesvien": {
+    "frontend": 28,
+    "products": 48,
+    "posthog": 20,
+    "services": 60
+  },
+  "salmanmkc": {
+    ".github": 33
+  },
+  "rnegron": {
+    "docs": 17,
+    ".github": 329,
+    "root": 27,
+    "bin": 8,
+    "common": 63,
+    "services": 14,
+    "devenv": 2,
+    "playwright": 1,
+    "frontend": 5,
+    ".devcontainer": 20,
+    "posthog": 22,
+    "nodejs": 1,
+    "products": 8,
+    "tools": 87,
+    ".flox": 2,
+    ".husky": 1,
+    ".agents": 2
+  },
+  "edwinyjlim": {
+    "frontend": 6
+  },
+  "MattPua": {
+    "frontend": 776,
+    "products": 30,
+    "playwright": 10,
+    "posthog": 83,
+    "services": 22,
+    ".github": 1,
+    "root": 2,
+    "common": 2,
+    "ee": 13,
+    "packages": 44,
+    ".semgrep": 1
+  },
+  "dmarchuk": {
+    "frontend": 41,
+    "nodejs": 96,
+    "products": 87,
+    "posthog": 17,
+    ".semgrep": 1,
+    "services": 2,
+    "root": 1,
+    ".github": 2,
+    "rust": 3
+  },
+  "VojtechBartos": {
+    "posthog": 96,
+    "products": 139,
+    "services": 680,
+    "bin": 1,
+    ".github": 4,
+    "frontend": 26,
+    "tools": 7,
+    "root": 1,
+    "ee": 12,
+    ".agents": 2,
+    "docs": 3
+  },
+  "inkeep": {
+    "rust": 3,
+    ".agents": 2,
+    "docs": 27,
+    "tools": 2,
+    "posthog": 1,
+    "services": 1,
+    "products": 4
+  },
+  "jonathanlab": {
+    "posthog": 4,
+    "products": 15,
+    "services": 5
+  },
+  "xljones": {
+    "frontend": 17,
+    "nodejs": 2,
+    "posthog": 14,
+    "services": 1,
+    "products": 2
+  },
+  "nicowaltz": {
+    "posthog": 21,
+    "products": 95,
+    "nodejs": 23
+  },
+  "slshults": {
+    "frontend": 34,
+    "products": 17,
+    "posthog": 4,
+    "root": 2,
+    "services": 11,
+    "nodejs": 3
+  },
+  "dustinbyrne": {
+    "frontend": 15,
+    "posthog": 33,
+    ".github": 1,
+    "products": 20,
+    "services": 1,
+    "root": 1
+  },
+  "beatlevic": {
+    "nodejs": 4
+  },
+  "andre347": {
+    "frontend": 3,
+    "products": 1
+  },
+  "parinporecha": {
+    ".github": 1,
+    "posthog": 3,
+    "root": 2,
+    ".flox": 1
+  },
+  "kliment-slice": {
+    "frontend": 6,
+    "posthog": 6,
+    "products": 1
+  },
+  "cat-ph": {
+    "tools": 2,
+    "products": 101,
+    "frontend": 38,
+    "posthog": 15,
+    "rust": 20,
+    "services": 75,
+    "bin": 1,
+    "cli": 6,
+    ".github": 2,
+    "root": 1,
+    "docs": 6
+  },
+  "joethreepwood": {
+    "frontend": 1
+  },
+  "matt-metivier": {
+    "posthog": 5
+  },
+  "annaszell": {
+    "posthog": 24,
+    "products": 59,
+    ".agents": 2,
+    ".claude": 1,
+    ".github": 1,
+    "docs": 1,
+    "frontend": 37,
+    "nodejs": 4,
+    "packages": 7,
+    "root": 1,
+    "rust": 3,
+    "services": 1
+  },
+  "dschofie": {
+    "products": 1
+  },
+  "orlandohohmeier": {
+    "frontend": 1
+  },
+  "SaraMiteva": {
+    "products": 15
+  },
+  "ryans-posthog": {
+    "products": 48,
+    "services": 3,
+    "posthog": 7
+  },
+  "seangeiger": {
+    "frontend": 2
+  },
+  "vmaineng": {
+    "frontend": 1
+  },
+  "aaug1-unify": {
+    "frontend": 1,
+    "nodejs": 3
+  },
+  "copilot-swe-agent": {
+    "docs": 1
+  },
+  "rorylshanks": {
+    "posthog": 23,
+    "products": 1,
+    ".github": 4,
+    "root": 4
+  },
+  "zaniluca": {
+    "products": 4,
+    "ee": 2,
+    "frontend": 13,
+    "posthog": 11,
+    "services": 1
+  },
+  "sipa-echo-zaoa": {
+    "nodejs": 1
+  },
+  "phillram": {
+    "frontend": 2
+  },
+  "mvanhorn": {
+    "posthog": 3
+  },
+  "kyleswank": {
+    "posthog": 1
+  },
+  "feliperalmeida": {
+    "posthog": 9,
+    "products": 5,
+    "services": 2,
+    "root": 10,
+    "frontend": 16,
+    "ee": 2,
+    "cli-2.0": 39
+  },
+  "brandonleung": {
+    "frontend": 6,
+    "posthog": 18,
+    "products": 46,
+    "services": 1,
+    "devenv": 1,
+    "root": 2,
+    "ee": 3
+  },
+  "langesven": {
+    "bin": 2,
+    "posthog": 1,
+    "tools": 3
+  },
+  "naji247": {
+    "services": 14,
+    "root": 1
+  },
+  "archiewood": {
+    "frontend": 1
+  },
+  "camerondeleone": {
+    "ee": 2,
+    "frontend": 22,
+    "posthog": 2,
+    "services": 1
+  },
+  "SafinMahmud": {
+    "frontend": 3
+  },
+  "DanielVisca": {
+    "nodejs": 64,
+    "frontend": 21,
+    "docs": 1,
+    "products": 111,
+    ".semgrep": 1,
+    "root": 3,
+    "posthog": 4,
+    "services": 9
+  },
+  "danazou": {
+    "frontend": 3,
+    "posthog": 2
+  },
+  "turnipdabeets": {
+    "cli": 6,
+    "products": 1,
+    "docs": 1,
+    "frontend": 1
+  },
+  "mcoll-posthog": {
+    "posthog": 56,
+    ".github": 1,
+    "ee": 1
+  },
+  "HaynesPostHog": {
+    "frontend": 7,
+    "products": 1
+  },
+  "arnaudhillen": {
+    "frontend": 7,
+    "posthog": 15,
+    "tools": 5,
+    ".husky": 1
+  },
+  "wiz-7ad640923b": {
+    "services": 2
+  },
+  "willwearing": {
+    "products": 5,
+    "ee": 4,
+    "posthog": 5,
+    "frontend": 10,
+    "playwright": 1,
+    "services": 4
+  },
+  "smallbrownbike": {
+    "docs": 1
+  },
+  "fivestarspicy": {
+    "frontend": 20,
+    "posthog": 19,
+    "services": 6,
+    "products": 21,
+    "root": 1
+  },
+  "ptrkstr": {
+    "cli": 1
+  },
+  "alex-kozh": {
+    "frontend": 2
+  },
+  "jamesefhawkins": {
+    "root": 1
+  },
+  "abigailbramble": {
+    "frontend": 1
+  },
+  "oddgarden6465": {
+    "products": 2
+  },
+  "renovate": {
+    ".github": 1
+  },
+  "ricardothe3rd": {
+    "frontend": 2
+  },
+  "mango766": {
+    "posthog": 2,
+    "products": 4
+  },
+  "seanpem": {
+    "products": 17,
+    "services": 9,
+    "root": 1,
+    "posthog": 1
+  },
+  "rubychilds": {
+    "frontend": 3,
+    "products": 17
+  },
+  "Kenji-K": {
+    "frontend": 1,
+    "posthog": 7
+  },
+  "okxint": {
+    "frontend": 7
+  },
+  "lucashflores": {
+    "posthog": 1
+  },
+  "Akash504-ai": {
+    "frontend": 2
+  }
+}

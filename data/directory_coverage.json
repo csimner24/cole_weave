@@ -1,0 +1,1575 @@
+{
+  "adamleithp": [
+    ".agents",
+    ".github",
+    "common",
+    "ee",
+    "frontend",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "pauldambra": [
+    ".agents",
+    ".claude",
+    ".flox",
+    ".github",
+    ".idea",
+    ".semgrep",
+    "bin",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "clickhouse-sync-posthog": [
+    ".github",
+    "docker"
+  ],
+  "scheduled-actions-posthog": [
+    "nodejs"
+  ],
+  "matheus-vb": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "docker",
+    "docs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "TueHaulund": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "devenv",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "eli-r-ph": [
+    ".agents",
+    ".flox",
+    ".github",
+    "nodejs",
+    "posthog",
+    "products",
+    "rust"
+  ],
+  "yasen-posthog": [
+    ".agents",
+    ".github",
+    ".semgrep",
+    "bin",
+    "docs",
+    "ee",
+    "frontend",
+    "livestream",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "jurajmajerik": [
+    ".dagster_home",
+    ".github",
+    ".semgrep",
+    "devenv",
+    "docs",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "z0br0wn": [
+    ".github",
+    "bin",
+    "devenv",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust"
+  ],
+  "benjackwhite": [
+    ".github",
+    "bin",
+    "common",
+    "devenv",
+    "docker",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "andrewm4894": [
+    ".github",
+    ".pi",
+    ".semgrep",
+    "bin",
+    "common",
+    "devenv",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "andyzzhao": [
+    ".agents",
+    "bin",
+    "common",
+    "docker",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "terraform",
+    "tools"
+  ],
+  "Radu-Raicea": [
+    ".github",
+    ".semgrep",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "andehen": [
+    ".flox",
+    ".semgrep",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "sampennington": [
+    ".agents",
+    ".claude",
+    ".github",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "funnel-udf",
+    "nodejs",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "webjunkie": [
+    ".agents",
+    ".claude",
+    ".devcontainer",
+    ".flox",
+    ".github",
+    ".husky",
+    ".semgrep",
+    "bin",
+    "common",
+    "devenv",
+    "docker",
+    "docs",
+    "ee",
+    "frontend",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "proto",
+    "root",
+    "rust",
+    "services",
+    "share",
+    "tools"
+  ],
+  "Twixes": [
+    ".flox",
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "mendral-app": [
+    ".claude",
+    ".devcontainer",
+    ".flox",
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "docker",
+    "ee",
+    "frontend",
+    "hedgebox-dummy",
+    "nodejs",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "MichaelKutsch-ph": [
+    ".github",
+    "bin",
+    "root"
+  ],
+  "skoob13": [
+    ".agents",
+    ".claude",
+    ".github",
+    ".vscode",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "jose-sequeira": [
+    ".github",
+    "bin",
+    "common",
+    "docker",
+    "ee",
+    "frontend",
+    "livestream",
+    "nodejs",
+    "posthog",
+    "products",
+    "proto",
+    "root",
+    "rust"
+  ],
+  "estefaniarabadan": [
+    ".github",
+    "bin",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "luke-belton": [
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "vdekrijger": [
+    ".claude",
+    ".github",
+    "bin",
+    "common",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "terraform"
+  ],
+  "frankh": [
+    ".github",
+    "bin",
+    "common",
+    "devenv",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "MattBro": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "docs",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "gesh": [
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "tomasfarias": [
+    ".github",
+    ".semgrep",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "thmsobrmlr": [
+    ".flox",
+    ".github",
+    "bin",
+    "common",
+    "docker",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "mp-hog": [
+    "bin",
+    "common",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "adboio": [
+    ".agents",
+    ".claude",
+    ".github",
+    ".posthog-code",
+    "cli",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root"
+  ],
+  "dmarticus": [
+    ".github",
+    ".semgrep",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "lricoy": [
+    ".github",
+    "common",
+    "ee",
+    "frontend",
+    "livestream",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "rafaeelaudibert": [
+    ".agents",
+    ".claude",
+    ".config",
+    ".devcontainer",
+    ".flox",
+    ".github",
+    ".semgrep",
+    ".vscode",
+    "bin",
+    "cli",
+    "common",
+    "devenv",
+    "docs",
+    "ee",
+    "frontend",
+    "hedgebox-dummy",
+    "livestream",
+    "nodejs",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "orian": [
+    ".github",
+    "common",
+    "docker",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "sarahxsanders": [
+    ".github",
+    "docs",
+    "ee",
+    "frontend"
+  ],
+  "ReeceJones": [
+    ".claude",
+    ".github",
+    ".semgrep",
+    "common",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "fuziontech": [
+    "frontend",
+    "posthog",
+    "root"
+  ],
+  "carlos-marchal-ph": [
+    ".github",
+    "bin",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "fasyy612": [
+    "common",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "patricio-posthog": [
+    "docs",
+    "ee",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "tatoalo": [
+    ".github",
+    ".semgrep",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "veryayskiy": [
+    ".github",
+    ".semgrep",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "jordanm-posthog": [
+    ".dagster_home",
+    ".flox",
+    ".github",
+    "bin",
+    "devenv",
+    "ee",
+    "frontend",
+    "livestream",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "sortafreel": [
+    ".github",
+    ".semgrep",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "joshsny": [
+    ".github",
+    "bin",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "hpouillot": [
+    ".flox",
+    ".github",
+    ".semgrep",
+    "bin",
+    "cli",
+    "common",
+    "devenv",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "Gilbert09": [
+    ".agents",
+    ".flox",
+    ".github",
+    ".husky",
+    ".semgrep",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "fercgomes": [
+    ".agents",
+    ".claude",
+    ".github",
+    "docs",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "anirudhpillai": [
+    "ee",
+    "frontend",
+    "posthog",
+    "products"
+  ],
+  "robbie-c": [
+    ".claude",
+    ".flox",
+    ".github",
+    ".husky",
+    ".idea",
+    "common",
+    "devenv",
+    "docker",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "abhischekt": [
+    "ee",
+    "frontend",
+    "posthog",
+    "root",
+    "services"
+  ],
+  "Classy-Bear": [
+    "docs"
+  ],
+  "rodrigoi": [
+    ".semgrep",
+    "cli-2.0",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "timgl": [
+    ".github",
+    "docs",
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "aspicer": [
+    ".flox",
+    ".github",
+    "bin",
+    "common",
+    "docker",
+    "ee",
+    "frontend",
+    "funnel-udf",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "MarconLP": [
+    ".agents",
+    "bin",
+    "devenv",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "nickbest-ph": [
+    ".agents",
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "devenv",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "proto",
+    "root",
+    "rust",
+    "services"
+  ],
+  "gustavohstrassburger": [
+    ".github",
+    "bin",
+    "cli-2.0",
+    "common",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "clr182": [
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "oliverb123": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "jabahamondes": [
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "lmenezes": [
+    ".github",
+    "bin",
+    "docker",
+    "livestream",
+    "nodejs",
+    "posthog",
+    "root",
+    "rust"
+  ],
+  "meikelmosby": [
+    "bin",
+    "common",
+    "docker",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "sakce": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "cli",
+    "common",
+    "devenv",
+    "docker",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "ablaszkiewicz": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "cli",
+    "common",
+    "docs",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "cvolzer3": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "georgemunyoro": [
+    ".github",
+    "common",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "christiaan-ph": [
+    "ee",
+    "frontend",
+    "posthog",
+    "products"
+  ],
+  "pl": [
+    ".agents",
+    ".claude",
+    ".github",
+    ".semgrep",
+    "ee",
+    "frontend",
+    "livestream",
+    "nodejs",
+    "posthog",
+    "products",
+    "rust",
+    "services"
+  ],
+  "richardsolomou": [
+    ".github",
+    ".semgrep",
+    "docs",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "andrewjmcgehee": [
+    ".github",
+    ".semgrep",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "dependabot": [
+    ".github",
+    "ee",
+    "posthog",
+    "products",
+    "root"
+  ],
+  "will-marella": [
+    "frontend"
+  ],
+  "ksvat": [
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "rossgray": [
+    ".github",
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "posthog-js-upgrader": [
+    ".github",
+    "frontend",
+    "hedgebox-dummy",
+    "products",
+    "root"
+  ],
+  "Daesgar": [
+    "docker",
+    "posthog",
+    "root",
+    "rust"
+  ],
+  "jonmcwest": [
+    ".github",
+    ".semgrep",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "darkopia": [
+    "frontend",
+    "posthog",
+    "products"
+  ],
+  "arthurdedeus": [
+    ".idea",
+    ".semgrep",
+    "bin",
+    "common",
+    "devenv",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "havenbarnes": [
+    ".github",
+    "bin",
+    "common",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "mariusandra": [
+    ".agents",
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "Piccirello": [
+    ".agents",
+    ".flox",
+    ".github",
+    ".semgrep",
+    "bin",
+    "ee",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "ordehi": [
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root"
+  ],
+  "a-lider": [
+    ".semgrep",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "haacked": [
+    ".github",
+    ".semgrep",
+    "bin",
+    "common",
+    "docs",
+    "ee",
+    "frontend",
+    "infra-scripts",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "k11kirky": [
+    ".github",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "bciaraldi": [
+    "posthog",
+    "products"
+  ],
+  "lucasheriques": [
+    ".flox",
+    ".semgrep",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "danielxnj": [
+    "frontend",
+    "posthog"
+  ],
+  "raquelmsmith": [
+    ".github",
+    ".semgrep",
+    "docs",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products"
+  ],
+  "tests-posthog": [
+    "root"
+  ],
+  "kappa90": [
+    ".github",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "harihran-del": [
+    "frontend",
+    "posthog"
+  ],
+  "gewenyu99": [
+    ".github",
+    "docs",
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "ioannisj": [
+    "cli",
+    "docs",
+    "frontend",
+    "rust"
+  ],
+  "posthog-bot": [
+    "nodejs"
+  ],
+  "ceyniustranberg": [
+    "frontend"
+  ],
+  "gantoine": [
+    ".agents",
+    ".flox",
+    ".github",
+    "bin",
+    "common",
+    "devenv",
+    "docs",
+    "frontend",
+    "hedgebox-dummy",
+    "nodejs",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "danielcarletti": [
+    ".agents",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "pawel-cebula": [
+    "docs",
+    "ee",
+    "frontend",
+    "posthog"
+  ],
+  "marandaneto": [
+    "cli-2.0",
+    "docs",
+    "frontend",
+    "posthog",
+    "root"
+  ],
+  "charlescook-ph": [
+    "frontend"
+  ],
+  "EDsCODE": [
+    ".github",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "daniloc": [
+    "frontend"
+  ],
+  "posthog": [
+    ".agents",
+    ".github",
+    "bin",
+    "docker",
+    "docs",
+    "ee",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "annikaschmid": [
+    ".semgrep",
+    "bin",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "charlesvien": [
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "salmanmkc": [
+    ".github"
+  ],
+  "rnegron": [
+    ".agents",
+    ".devcontainer",
+    ".flox",
+    ".github",
+    ".husky",
+    "bin",
+    "common",
+    "devenv",
+    "docs",
+    "frontend",
+    "nodejs",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "edwinyjlim": [
+    "frontend"
+  ],
+  "MattPua": [
+    ".github",
+    ".semgrep",
+    "common",
+    "ee",
+    "frontend",
+    "packages",
+    "playwright",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "dmarchuk": [
+    ".github",
+    ".semgrep",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "VojtechBartos": [
+    ".agents",
+    ".github",
+    "bin",
+    "docs",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services",
+    "tools"
+  ],
+  "inkeep": [
+    ".agents",
+    "docs",
+    "posthog",
+    "products",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "jonathanlab": [
+    "posthog",
+    "products",
+    "services"
+  ],
+  "xljones": [
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "nicowaltz": [
+    "nodejs",
+    "posthog",
+    "products"
+  ],
+  "slshults": [
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "dustinbyrne": [
+    ".github",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "beatlevic": [
+    "nodejs"
+  ],
+  "andre347": [
+    "frontend",
+    "products"
+  ],
+  "parinporecha": [
+    ".flox",
+    ".github",
+    "posthog",
+    "root"
+  ],
+  "kliment-slice": [
+    "frontend",
+    "posthog",
+    "products"
+  ],
+  "cat-ph": [
+    ".github",
+    "bin",
+    "cli",
+    "docs",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services",
+    "tools"
+  ],
+  "joethreepwood": [
+    "frontend"
+  ],
+  "matt-metivier": [
+    "posthog"
+  ],
+  "annaszell": [
+    ".agents",
+    ".claude",
+    ".github",
+    "docs",
+    "frontend",
+    "nodejs",
+    "packages",
+    "posthog",
+    "products",
+    "root",
+    "rust",
+    "services"
+  ],
+  "dschofie": [
+    "products"
+  ],
+  "orlandohohmeier": [
+    "frontend"
+  ],
+  "SaraMiteva": [
+    "products"
+  ],
+  "ryans-posthog": [
+    "posthog",
+    "products",
+    "services"
+  ],
+  "seangeiger": [
+    "frontend"
+  ],
+  "vmaineng": [
+    "frontend"
+  ],
+  "aaug1-unify": [
+    "frontend",
+    "nodejs"
+  ],
+  "copilot-swe-agent": [
+    "docs"
+  ],
+  "rorylshanks": [
+    ".github",
+    "posthog",
+    "products",
+    "root"
+  ],
+  "zaniluca": [
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "sipa-echo-zaoa": [
+    "nodejs"
+  ],
+  "phillram": [
+    "frontend"
+  ],
+  "mvanhorn": [
+    "posthog"
+  ],
+  "kyleswank": [
+    "posthog"
+  ],
+  "feliperalmeida": [
+    "cli-2.0",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "brandonleung": [
+    "devenv",
+    "ee",
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "langesven": [
+    "bin",
+    "posthog",
+    "tools"
+  ],
+  "naji247": [
+    "root",
+    "services"
+  ],
+  "archiewood": [
+    "frontend"
+  ],
+  "camerondeleone": [
+    "ee",
+    "frontend",
+    "posthog",
+    "services"
+  ],
+  "SafinMahmud": [
+    "frontend"
+  ],
+  "DanielVisca": [
+    ".semgrep",
+    "docs",
+    "frontend",
+    "nodejs",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "danazou": [
+    "frontend",
+    "posthog"
+  ],
+  "turnipdabeets": [
+    "cli",
+    "docs",
+    "frontend",
+    "products"
+  ],
+  "mcoll-posthog": [
+    ".github",
+    "ee",
+    "posthog"
+  ],
+  "HaynesPostHog": [
+    "frontend",
+    "products"
+  ],
+  "arnaudhillen": [
+    ".husky",
+    "frontend",
+    "posthog",
+    "tools"
+  ],
+  "wiz-7ad640923b": [
+    "services"
+  ],
+  "willwearing": [
+    "ee",
+    "frontend",
+    "playwright",
+    "posthog",
+    "products",
+    "services"
+  ],
+  "smallbrownbike": [
+    "docs"
+  ],
+  "fivestarspicy": [
+    "frontend",
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "ptrkstr": [
+    "cli"
+  ],
+  "alex-kozh": [
+    "frontend"
+  ],
+  "jamesefhawkins": [
+    "root"
+  ],
+  "abigailbramble": [
+    "frontend"
+  ],
+  "oddgarden6465": [
+    "products"
+  ],
+  "renovate": [
+    ".github"
+  ],
+  "ricardothe3rd": [
+    "frontend"
+  ],
+  "mango766": [
+    "posthog",
+    "products"
+  ],
+  "seanpem": [
+    "posthog",
+    "products",
+    "root",
+    "services"
+  ],
+  "rubychilds": [
+    "frontend",
+    "products"
+  ],
+  "Kenji-K": [
+    "frontend",
+    "posthog"
+  ],
+  "okxint": [
+    "frontend"
+  ],
+  "lucashflores": [
+    "posthog"
+  ],
+  "Akash504-ai": [
+    "frontend"
+  ]
+}
