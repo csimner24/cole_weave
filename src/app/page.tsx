@@ -44,7 +44,7 @@ export default async function DashboardPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <main className="mx-auto max-w-[1400px] px-4 py-10 sm:px-6 lg:px-8">
       <header className="mb-10">
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900">
           Cole Simner - Weave
